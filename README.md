@@ -1,10 +1,5 @@
-<h1 align="center">GitHub Profile | CS Graduate</h1>
-
-<p align="center">
-  <b>Faizan Ahmad</b><br>
-  🎓 Bachelor in Computer Science <br>
-  💻 Web Developer | Full Stack Enthusiast
-</p>
+<h1 align="center">Hi 👋, I'm Faizan Ahmad</h1>
+<h3 align="center">💻 A Passionate Web Developer | CS Graduate 🎓</h3>
 
 ---
 
@@ -27,13 +22,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizandev1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizandev1&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizandev1&layout=compact&theme=tokyonight" />
 </p>
