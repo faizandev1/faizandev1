@@ -30,11 +30,7 @@
 </p>
 
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizandev1&show_icons=true&theme=blue_navy&hide_border=true&rank_icon=github" alt="Faizan's GitHub stats" />
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=faizandev1&theme=blue_navy&hide_border=true" alt="GitHub Streak" />
@@ -56,18 +52,12 @@
 ## 🧱 Featured Projects
 
 - **Portfolio Website** — Modern, fast, responsive.  
-  Demo: https://faizan.dev · Repo: https://github.com/faizandev1/portfolio
-
-- **Task Manager API** — Node/Express + JWT + MongoDB.  
-  Repo: https://github.com/faizandev1/task-manager-api
-
+  Demo: https://faizan.dev · Repo: https://faizandev1.netlify.app
+  
 - **E-Commerce UI** — Responsive storefront with Tailwind.  
-  Repo: https://github.com/faizandev1/ecommerce-ui
+  Repo:https://best4juniors.nl/
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c6ff&height=2" width="85%" alt="divider"/>
-</p>
+ 
 
 ## 📫 Contact
 
