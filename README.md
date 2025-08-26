@@ -5,18 +5,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0f1f,50:00c6ff,100:0072ff&text=Hi%20%2C%20I'm%20Faizan%20Ahmad&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20·%20CS%20Graduate&descAlignY=65&descAlign=50" alt="Header" />
 </p>
 
-<!-- Contact / quick links -->
+<!-- Contact / quick links (neon blue set) -->
 <p align="center">
   <a href="mailto:faizan56730@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-faizan%40example.com-0072ff?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-faizan56730%40gmail.com-0072ff?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/faizan-username" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faizan%20Ahmad-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-faizan--username-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://faizandev1.netlify.app/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-faizan.dev-06b6d4?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-faizandev1.netlify.app-06b6d4?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </p>
+
 
  
 <!-- Divider -->
