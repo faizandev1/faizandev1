@@ -62,8 +62,8 @@
 
 ## 📫 Contact
 
-- Email: **faizan@example.com**  
-- LinkedIn: **/in/faizan-username**
+- Email: **faizan5673@gmail.com**  
+- LinkedIn: **/in/[faizan-username](https://www.linkedin.com/in/faizan-webdeveloper)**
 
 ---
 
